@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7b5f41a-f8f9-4281-b504-e81713b88b2c" name="Changes" comment="delete test.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/Application.java" afterDir="false" />
+    <list default="true" id="b7b5f41a-f8f9-4281-b504-e81713b88b2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -39,7 +38,7 @@
         <option name="localRepository" value="D:\Tools\apache-maven-3.6.1\maven-repo2" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../Tools/apache-maven-3.6.1" />
         <option name="useMavenConfig" value="true" />
-        <option name="userSettingsFile" value="D:\Tools\apache-maven-3.6.1\backup\settings.xml" />
+        <option name="userSettingsFile" value="D:\Tools\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -56,16 +55,61 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;604a44ab760c480e35d4254396fea473&quot;
   }
 }</component>
+  <component name="RunManager" selected="Maven.mvn">
+    <configuration name="mvn" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="Book_pro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fenglei.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mvn" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +127,11 @@
       <workItem from="1659868411128" duration="461000" />
       <workItem from="1659868909785" duration="502000" />
       <workItem from="1659869426152" duration="879000" />
-      <workItem from="1659921665746" duration="824000" />
+      <workItem from="1659921665746" duration="1899000" />
+      <workItem from="1659923746092" duration="1565000" />
+      <workItem from="1659925339038" duration="346000" />
+      <workItem from="1659925702059" duration="1640000" />
+      <workItem from="1659929140528" duration="2530000" />
     </task>
     <task id="LOCAL-00001" summary="the first push about test">
       <created>1659774301972</created>
@@ -113,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659774815023</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hello world">
+      <created>1659922514333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659922514333</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +189,7 @@
     <MESSAGE value="the first push about test" />
     <MESSAGE value="add test.java" />
     <MESSAGE value="delete test.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete test.java" />
+    <MESSAGE value="hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
   </component>
 </project>
