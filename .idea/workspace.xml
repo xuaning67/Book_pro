@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b5f41a-f8f9-4281-b504-e81713b88b2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
     &quot;spring.configuration.checksum&quot;: &quot;604a44ab760c480e35d4254396fea473&quot;
   }
 }</component>
-  <component name="RunManager" selected="Maven.mvn">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration name="mvn" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -131,7 +131,10 @@
       <workItem from="1659923746092" duration="1565000" />
       <workItem from="1659925339038" duration="346000" />
       <workItem from="1659925702059" duration="1640000" />
-      <workItem from="1659929140528" duration="2530000" />
+      <workItem from="1659929140528" duration="3943000" />
+      <workItem from="1659954004142" duration="594000" />
+      <workItem from="1660008686348" duration="594000" />
+      <workItem from="1660009326608" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="the first push about test">
       <created>1659774301972</created>
@@ -168,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659922514333</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add jar">
+      <created>1659938178544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659938178544</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add jar">
+      <created>1659938199253</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659938199253</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +207,7 @@
     <MESSAGE value="add test.java" />
     <MESSAGE value="delete test.java" />
     <MESSAGE value="hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+    <MESSAGE value="add jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jar" />
   </component>
 </project>
