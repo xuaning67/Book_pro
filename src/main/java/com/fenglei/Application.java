@@ -9,14 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Application {
 
-    @RequestMapping("/")
-    String home() {
-        return "helloworldsssss";
-    }
-
-    public class haha{
-
-    }
+//    @RequestMapping("/")
+//    String home() {
+//        return "helloworld";
+//    }
 
     public static void main (String[] args) {
         SpringApplication.run(Application.class, args);

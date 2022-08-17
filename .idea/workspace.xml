@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7b5f41a-f8f9-4281-b504-e81713b88b2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/config/JpaConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fenglei/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +35,22 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -146,7 +170,12 @@
       <workItem from="1660222730385" duration="1171000" />
       <workItem from="1660267882622" duration="2545000" />
       <workItem from="1660565991232" duration="625000" />
-      <workItem from="1660716270177" duration="731000" />
+      <workItem from="1660716270177" duration="1086000" />
+      <workItem from="1661159397965" duration="6932000" />
+      <workItem from="1661218513139" duration="4156000" />
+      <workItem from="1661224769787" duration="701000" />
+      <workItem from="1661236367138" duration="594000" />
+      <workItem from="1661239430480" duration="1438000" />
     </task>
     <task id="LOCAL-00001" summary="the first push about test">
       <created>1659774301972</created>
@@ -211,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660716957374</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="测试代码作者2">
+      <created>1660717023444</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660717023444</updated>
+    </task>
+    <task id="LOCAL-00011" summary="测试代码作者3完成">
+      <created>1660717160512</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660717160512</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +279,8 @@
     <MESSAGE value="add jar" />
     <MESSAGE value="update" />
     <MESSAGE value="测试代码作者1" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试代码作者1" />
+    <MESSAGE value="测试代码作者2" />
+    <MESSAGE value="测试代码作者3完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试代码作者3完成" />
   </component>
 </project>
