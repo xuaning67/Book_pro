@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7b5f41a-f8f9-4281-b504-e81713b88b2c" name="Changes" comment="测试代码作者1">
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="b7b5f41a-f8f9-4281-b504-e81713b88b2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fenglei/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fenglei/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +146,7 @@
       <workItem from="1660222730385" duration="1171000" />
       <workItem from="1660267882622" duration="2545000" />
       <workItem from="1660565991232" duration="625000" />
-      <workItem from="1660716270177" duration="676000" />
+      <workItem from="1660716270177" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="the first push about test">
       <created>1659774301972</created>
@@ -208,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660032172861</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="测试代码作者1">
+      <created>1660716957374</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660716957374</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

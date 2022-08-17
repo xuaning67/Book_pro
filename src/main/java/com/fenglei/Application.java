@@ -14,6 +14,10 @@ public class Application {
         return "helloworldsssss";
     }
 
+    public class haha{
+
+    }
+
     public static void main (String[] args) {
         SpringApplication.run(Application.class, args);
     }
