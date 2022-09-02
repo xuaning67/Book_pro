@@ -17,6 +17,5 @@ public class Role implements java.io.Serializable{
     private String name;
 
     public Role() {
-
     }
 }
